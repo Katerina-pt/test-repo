@@ -1,0 +1,11 @@
+Font: Times New Roman, Helvetica, Shelley, Incomeolata, Impact, Custom
+FontSlyle: Regular, Italic, Bold, BoldItalic
+Size: 1, 24, 100, 4000
+Colour: orange, green, yellow, custom, 0, 50, 255, hls, FEFEFO
+UnderlineStile: lines, none
+ColourUnd: orange, green, yellow, custom, 0, 50, 255, hls, FEFEFO, NotUsde
+Strike: StrikeIhrough, DoubleStrikeIhrough, none
+Script: SuperScript, SubScript, none
+Offset: -100, -25, -1, 1, 25, 100, 0
+Caps: SmallCaps, AllCaps, none
+EqualizeHeight: on, off
